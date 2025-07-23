@@ -37,9 +37,9 @@ const projects = [
 
 function Project() {
   return (
-    <div className="mt-30 bg-gray-700 p-5 rounded-xl">
+    <div id="Project" className="mt-30 bg-gray-700 p-5 rounded-xl">
       <Title title="Mes Projets" />
-      <div className=" grid md:grid-cols-3 gap-4">
+      <div className="mt-10 grid md:grid-cols-3 gap-4">
         {projects.map((project) => (
           <div key={project.id} className="bg-base-300 p-5 h-fit rounded-xl shadow-lg">
             <img 

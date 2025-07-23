@@ -28,7 +28,7 @@ const aboutSections = [
 
 function About() {
   return (
-    <div className='bg-base-300 p-10 mb-10 md:mb-32'>
+    <div  id="About" className='bg-base-300 p-10 mb-10 md:mb-32'>
       <Title title='à Propos'/>
       <div className='md:h-200 flex justify-center items-center'>
         <div className='hidden md:block'>

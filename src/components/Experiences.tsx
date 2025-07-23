@@ -28,9 +28,9 @@ const experiences = [
 
 function Experiences() {
   return (
-    <div>
+    <div id="Experience" className="container mx-auto p-4">
       <Title title="Expériences" />
-      <div className="flex flex-col-reverse md:flex-row justify-center items-center">
+      <div className="flex flex-col-reverse md:flex-row mt-20 justify-center items-center">
         <div className="flex flex-wrap justify-center items-center gap-4 md:w-1/3 mt-4 md:mt-0">
             {skills.map((skill) => (
                 <div key={skill.id} className="flex justify-center items-center flex-col" >
