@@ -20,9 +20,9 @@ const skills = [
     ];
 
 const experiences = [
-    { id: 1, title: "Formation ,Intégrateur Web",description: "Formation Développeur Web Front-End, axés sur HTML,CSS,JS dont REACT.", company: "OpenClassrooms", duration: "Sept 2024 - Juil 2025", image: openclassrooms },
-    { id: 2, title: "Employé Polyvalent", description: "Employé de commerce et responsable de régie.", company: "Ablis - Aldi", duration: "Fevr 2023 - Juil 2024", image: aldi },
-    { id: 3, title: "Formation Technicien Supérieur Systèmes et Réseaux", description: "Formation Technicien Préparation Systèmes et mise en place Réseaux pour differentes structures.", company: "Aden Formations", duration: "Sept 2021 - Juin 2022", image: aden},
+    { id: 1, title: "Formation, Intégrateur Web",description: "Formation Développeur Web Front-End, axés sur HTML, CSS, JS dont REACT.", company: "OpenClassrooms", duration: "Sept 2024 - Juil 2025", image: openclassrooms },
+    { id: 2, title: "Employé Polyvalent", description: "Employé de commerce et responsable de régie.", company: "Ablis - Aldi", duration: "Févr 2023 - Juil 2024", image: aldi },
+    { id: 3, title: "Formation, Technicien Supérieur Systèmes et Réseaux", description: "Formation Technicien Préparation Systèmes et mise en place Réseaux pour différentes structures.", company: "Aden Formations", duration: "Sept 2021 - Juin 2022", image: aden},
 ];
 
 

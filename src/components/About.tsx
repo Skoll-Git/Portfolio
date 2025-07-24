@@ -28,9 +28,9 @@ const aboutSections = [
 
 function About() {
   return (
-    <div  id="About" className='bg-base-300 p-10 mb-10 md:mb-32'>
+    <div  id="About" className='bg-base-300 p-10 mb-10 md:mb-10'>
       <Title title='à Propos'/>
-      <div className='md:h-200 flex justify-center items-center'>
+      <div className='md:h-150 flex justify-center items-center'>
         <div className='hidden md:block'>
             <img src={img} alt="Kévin Daubresse" className='w-96 object-cover shadow-xl rounded-xl' />
         </div>
