@@ -8,7 +8,7 @@ function Home() {
         <div className='flex flex-col'>
             <h1 className="text-4xl md:text-6xl font-bold text-center md:text-left mt-4 md:mt-0">Bonjour, <br />Je suis <span className="text-accent">Kévin "Skoll" Daubresse</span></h1>
             <p className="my-4 text-md text-center md:text-left">Je suis un devoloppeur FRONT-END Junior,<br /> utilisant React,TailWindCSS.<br />Contactez-moi si vous avez besoin de mes services.</p>
-            <a href="" className='btn btn-accent md:w-fit'>
+            <a href="#Contact" className='btn btn-accent md:w-fit'>
                 <Mail className='w-5 h-5' />
                 Contactez-moi.
             </a>

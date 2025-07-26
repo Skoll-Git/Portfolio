@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Experiences from './components/Experiences'
 import Project from './components/Project'
 import Footer from './components/Footer'
+import Contact from './components/Contact'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <div className='p-5 md:px-[10%]'>
           <Experiences />
           <Project />
+          <Contact />
         </div>
         <Footer />
       </div>

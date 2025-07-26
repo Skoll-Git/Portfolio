@@ -21,6 +21,9 @@ function navbar() {
         <li>
             <a href="#Project" className='btn btn-sm btn-ghost'>Mes projets</a>
         </li>
+        <li>
+            <a href="#Contact" className='btn btn-sm btn-ghost'>Contact</a>
+        </li>
       </ul>
     </div>
   )
