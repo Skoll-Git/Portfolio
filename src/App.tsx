@@ -6,6 +6,7 @@ import Experiences from './components/Experiences'
 import Project from './components/Project'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
+import BackToTop from './components/BacktoTop'
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
           <Contact />
         </div>
         <Footer />
+        <BackToTop />
       </div>
     </>
   )
